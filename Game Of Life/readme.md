@@ -29,3 +29,6 @@ By the way, this is also a question on the leetcode, the introduction is below.
 
 My implementation is a simple one. First, the program generates a matrix with random 1 and 0. Then traverse each cell of the copy of matrix, and check around the 8 surrounding cells. Finally,we could get the origin matrix updated based on the result. The visualization is based on pygame, and the updating speed is slowed to 1 frame/sec.
 
+![Image](https://github.com/Blue-Sail/Noob/blob/master/Game%20Of%20Life/pic.png)
+
+
