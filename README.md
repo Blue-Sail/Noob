@@ -1,0 +1,2 @@
+# Noob
+Basic Coding Practices
